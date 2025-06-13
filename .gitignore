@@ -61,3 +61,5 @@ Thumbs.db
 # Config files with sensitive data
 config.ini
 .env
+
+.claude
